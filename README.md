@@ -1,2 +1,2 @@
-# codealfa_projects
+# codealfa_tasks
 Coadalfa — A creative coding space for Python projects, problem-solving, and software development experiments.
